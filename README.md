@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9d15f45d-b162-4619-a2d0-d3678bf2d379">
+    <img src="https://github.com/user-attachments/assets/9d15f45d-b162-4619-a2d0-d3678bf2d379" width="400" alt="Image">
 </div>
+
 
 ## 📊 My Github Stats
 <div align="center">
