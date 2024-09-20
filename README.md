@@ -2,6 +2,14 @@
     <img src="https://github.com/user-attachments/assets/9d15f45d-b162-4619-a2d0-d3678bf2d379" width="400" alt="Image">
 </div>
 
+## 👋 About Me
+
+Hi, I'm **Nichole Kaye N. Orador**!  
+I'm a passionate **Full-Stack Web Developer** 💻, **Software Engineering Student** 📚, and **AI Enthusiast** 🤖.
+
+🔭 I’m currently honing my skills in web development and exploring the intersection of software engineering and AI.  
+🌱 I enjoy tackling challenges, collaborating with creative minds, and continuously learning to enhance my technical and problem-solving skills. 
+
 
 ## 📊 My Github Stats
 <div align="center">
