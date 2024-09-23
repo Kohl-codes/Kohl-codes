@@ -13,10 +13,16 @@ Hi, I'm **Nichole Kaye N. Orador**!
 
 ## 📊 My Github Stats
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Kohl-codes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohl-codes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kohl-codes&theme=black-ice"/>
-  
+    
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kohl-codes&theme=react&hide_border=true&background=0D1117"/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Kohl-codes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohl-codes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 
