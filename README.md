@@ -4,8 +4,6 @@
 
 ## 👋 About Me
 
-Hi, I'm **Nichole Kaye N. Orador**!  
-
 - I'm a passionate **Full-Stack Web Developer** 💻, **Software Engineering Student** 📚, and **AI Enthusiast** 🤖.
   
 - 🔭 I’m currently honing my skills in web development and exploring the intersection of software engineering and AI.  
