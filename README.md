@@ -8,6 +8,9 @@
   
 - 🔭 I’m currently honing my skills in web development and exploring the intersection of software engineering and AI.  
 
+<a href="https://github.com/Kohl-codes">
+    <img src="https://komarev.com/ghpvc/?username=kohl-codes" alt="page views" />
+</a>
 
 ## 📊 My Github Stats
 <div align="center">
@@ -23,6 +26,8 @@
 
 </div>
 
-## Languages
+## Let's Connect 
 
-
+<p><a href="https://github.com/Kohl-codes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/NicholeOrador" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/nichole-kaye-neo-orador" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
