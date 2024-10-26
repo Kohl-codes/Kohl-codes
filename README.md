@@ -25,8 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohl-codes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 
 </div>
-
-## Find Me
+## Contact Me
 
 <p><a href="https://github.com/Kohl-codes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/NicholeOrador" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
