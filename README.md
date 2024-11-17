@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=kohl-codes" alt="page views" />
 </a>
 
-## Languages  
+## 🔧 Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,8 +20,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,java,spring,php,mysql,jquery,nodejs,tailwind"/>
   </a>
 </p>
-
-## Tools 
 
 <p align="center">
   <a href="https://skillicons.dev">
