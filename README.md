@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,java,spring,php,mysql,jquery,nodejs,tailwind,blade,laravel"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,java,spring,php,mysql,jquery,nodejs,tailwind"/>
   </a>
 </p>
 
